@@ -2,6 +2,8 @@
 
 Dự án này là một hệ thống giám sát bãi đỗ xe đơn giản được xây dựng bằng **Python** và **OpenCV**.  
 Chương trình sẽ phát hiện chỗ trống và chỗ đã có xe trong bãi đỗ thông qua video.
+## Images
+![Markdown Logo](https://github.com/quanzz123/Parking-Spaces-Counter/blob/main/result.png)
 
 ---
 
